@@ -1,86 +1,46 @@
-<div align="center">
+# Hi there, I'm [Your Name]! 👋
 
-# 👨‍💻 Hey, I'm Kunj Darji
-
-### Full-Stack Developer | Problem Solver | Open Source Enthusiast
-
-*Building the web, one commit at a time*
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunj-darji)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjdarji857@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kunj2468)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KunjDarji261569)
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Blogger" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🚀 About Me
-
-I am a results-driven **Full-Stack Developer** passionate about building scalable web applications and exploring software architecture.  
-I love bridging the gap between elegant frontend experiences and robust backend systems.
-
-- **🔭 Working on:** High-performance web solutions and refining my system design skills  
-- **🌱 Learning:** Deep diving into **Cloud Native ecosystems** and **DevOps** (Docker, Kubernetes)  
-- **👯 Collaboration:** Looking to contribute to **Open Source** projects focused on developer productivity  
-- **💬 Ask me about:** JavaScript/TypeScript, PHP, .NET, or why C++ is still my favorite for logic building  
-- **⚡ Fun Fact:** If the code isn’t clean, it isn’t finished. 🎵☕
+### 🚀 About Me
+- 🔭 I’m currently working on **[Project Name]**
+- 🌱 I’m currently learning **[Specific Language/Framework]**
+- 👯 I’m looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **React, Python, or UI/UX**
+- 📫 How to reach me: **your-email@example.com**
+- ⚡ Fun fact: **I drink more coffee than water.**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+**Languages & Frameworks**
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⚙️ Frameworks & Tools
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+**Tools & Databases**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🏆 GitHub Trophies
-<div align="center">
-
-[![trophies](https://github-profile-trophy.vercel.app/?username=Semi-technical&theme=tokyonight&column=7&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📊 Statistics & Activity
-<div align="center">
-
-| **GitHub Stats** | **Most Used Languages** |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Semi-technical&show_icons=true&theme=tokyonight&hide_border=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Semi-technical&layout=compact&theme=tokyonight&hide_border=true) |
-
-</div>
-
-### 📈 Contribution Graph
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Semi-technical&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" />
+</p>
 
 ---
 
-## 💭 Dev Quote of the Day
-<div align="center">
-
-<br />
-
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-![Profile Views](https://komarev.com/ghpvc/?username=Semi-technical&color=blueviolet&style=flat-square)
-
-</div>
+### 🤝 Connect with me
+<p align="left">
+<a href="https://linkedin.com/in/[YOUR-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/[YOUR-TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+</p>
