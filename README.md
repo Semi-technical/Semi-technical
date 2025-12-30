@@ -6,7 +6,7 @@
 
 *Building the web, one commit at a time*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunj-darji) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kunj-darji)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjdarji857@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/kunj2468)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/KunjDarji261569)
@@ -17,13 +17,14 @@
 
 ## 🚀 About Me
 
-I am a results-driven **Full-Stack Developer** passionate about building scalable web applications and exploring the depths of software architecture. I enjoy bridging the gap between elegant frontend design and robust backend logic.
+I am a results-driven **Full-Stack Developer** passionate about building scalable web applications and exploring software architecture.  
+I love bridging the gap between elegant frontend experiences and robust backend systems.
 
-* **🔭 Working on:** Architecting high-performance web solutions and refining my system design skills.
-* **🌱 Learning:** Deep diving into **Cloud Native ecosystems** and **DevOps** (Docker, Kubernetes).
-* **👯 Collaboration:** I'm looking to contribute to **Open Source** projects that focus on developer productivity.
-* **💬 Ask me about:** JavaScript/TypeScript, PHP, .NET, or why C++ is still my favorite for logic building.
-* **⚡ Fun Fact:** I believe that if the code isn't clean, it isn't finished. 🎵☕
+- **🔭 Working on:** High-performance web solutions and refining my system design skills  
+- **🌱 Learning:** Deep diving into **Cloud Native ecosystems** and **DevOps** (Docker, Kubernetes)  
+- **👯 Collaboration:** Looking to contribute to **Open Source** projects focused on developer productivity  
+- **💬 Ask me about:** JavaScript/TypeScript, PHP, .NET, or why C++ is still my favorite for logic building  
+- **⚡ Fun Fact:** If the code isn’t clean, it isn’t finished. 🎵☕
 
 ---
 
@@ -75,8 +76,6 @@ I am a results-driven **Full-Stack Developer** passionate about building scalabl
 
 ## 💭 Dev Quote of the Day
 <div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <br />
 
