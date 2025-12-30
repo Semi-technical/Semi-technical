@@ -16,14 +16,13 @@
 ---
 
 ## 🚀 About Me
-```yaml
-current_focus: Full-stack web applications
-collaboration: Open-source projects
-learning: Cloud technologies & DevOps
-help_wanted: System design & performance optimization
-ask_me_about: Web development, problem-solving, tech stacks
-fun_fact: Coffee + music = better code 🎵☕
-```
+
+> 🔭 Currently building **full-stack web applications**  
+> 👯 Open to collaborating on **open-source projects**  
+> 🤝 Seeking help with **system design & performance optimization**  
+> 🌱 Learning **cloud technologies & DevOps**  
+> 💬 Ask me about **web development & problem-solving**  
+> ⚡ Fun fact: **Coffee + music = better code** 🎵☕
 
 ---
 
@@ -45,15 +44,21 @@ fun_fact: Coffee + music = better code 🎵☕
 
 ---
 
-## 📈 GitHub Analytics
+## 🏆 GitHub Trophies
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Semi-technical&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=Semi-technical&theme=tokyonight&hide_border=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Semi-technical&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Semi-technical&theme=tokyonight&hide_border=true&layout=compact)
+</div>
+
+---
+
+## 📊 Contribution Graph
+
+<div align="center">
+
+[![Kunj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Semi-technical&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
