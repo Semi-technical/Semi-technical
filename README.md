@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Kunj! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Blogger" alt="Typing SVG" />
@@ -7,11 +7,11 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on **[Project Name]**
-- 🌱 I’m currently learning **[Specific Language/Framework]**
+- 🔭 I’m currently working on **Turning ideas into production-ready web experiences**
+- 🌱 I’m currently learning **Leveling up in cloud + DevOps**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **React, Python, or UI/UX**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **kunjdarji857@gmail.com**
 - ⚡ Fun fact: **I drink more coffee than water.**
 
 ---
@@ -33,14 +33,16 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=tokyonight" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Semi-technical&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semi-technical&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
 ### 🤝 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/[YOUR-LINKEDIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://twitter.com/[YOUR-TWITTER]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kunj-darji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com/kunj2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+</a>  
+<a href="https://twitter.com/KunjDarji261569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
 </p>
