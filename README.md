@@ -1,48 +1,38 @@
-# Hi there, I'm Kunj! 👋
+# 👋 Hi, I'm Kunj Darji
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=45A1FF&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Blogger" alt="Typing SVG" />
-</p>
+🎓 IT Student | 💻 Beginner Developer | 🌱 Learning Step by Step  
 
----
-
-### 🚀 About Me
-- 🔭 I’m currently working on **Turning ideas into production-ready web experiences**
-- 🌱 I’m currently learning **Leveling up in cloud + DevOps**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Python, or UI/UX**
-- 📫 How to reach me: **kunjdarji857@gmail.com**
-- ⚡ Fun fact: **I drink more coffee than water.**
+I'm an Information Technology student who is just starting out in the tech world.  
+Still learning, still exploring, and slowly building things one step at a time 🚀  
 
 ---
 
-### 🛠 Tech Stack
-
-**Languages & Frameworks**
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Tools & Databases**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+## 🛠️ What I Know (Basics)
+- 💡 Programming fundamentals  
+- 🐍 Python (basic level)
+- 🌐 HTML & CSS (intro level)
+- 📘 Learning Machine Learning concepts
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Semi-technical&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Semi-technical&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+## 📚 Currently Learning
+- Data Structures & Algorithms (basics)
+- Python for real-world projects
+- Simple ML models & college projects
 
 ---
 
-### 🤝 Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/kunj-darji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://instagram.com/kunj2468" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>  
-<a href="https://twitter.com/KunjDarji261569" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-</p>
+## 🎯 Goals
+- Improve coding skills  
+- Build small and useful projects  
+- Learn enough to become confident in IT 😄  
+
+---
+
+## ⚡ Fun Fact
+I’m still learning what IT actually means… but I’m not giving up 💪  
+
+---
+
+⭐ *Thanks for visiting my profile!*  
+Feel free to check out my repositories as I learn and grow 🌱
